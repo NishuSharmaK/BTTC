@@ -12,4 +12,4 @@ Using technology such as a predictive dialler significantly improves efficiency,
 if the target audience is not available to take your call at the time you make it then the basic contact objective 
 will not be achieved.
 
-The engine works on the demographic information and call attempts results from history for the person.
+The engine works on the demographic information and call attempts history for the person.
